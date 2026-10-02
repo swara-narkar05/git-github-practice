@@ -1,1 +1,2 @@
 # My GitHub Practice
+Day 3 Git practice
